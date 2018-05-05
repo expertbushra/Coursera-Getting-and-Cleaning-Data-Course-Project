@@ -18,8 +18,8 @@ Data Zip File Location: [UC Irvine Repo](https://d396qusza40orc.cloudfront.net/g
 
 | Goal	Item  | Item            | Links Of the Item  |
 | ------------- | ------------- | ------------- | 
-| Analysis R Script  | run_analysis.R |Content Cell  |
-| Tidy Data Set  | Clean Data Set  | Content Cell  | 
+| Analysis R Script  | run_analysis.R |R Script Link  |
+| Tidy Data Set  | Clean Data Set  | Data Set Link | 
 | Github Repo  | Repo  |Content Cell  |
 | Cookbook  | CodeBook.md  |Content Cell  |
 | README  | ReadingItNow	 |Content Cell  |
